@@ -20,7 +20,7 @@ I'm an enthusiastic app developer with a passion for crafting engaging and user-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adithya-sakaray&theme=dark&hide_border=false)<br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Sakaray)](https://github.com/Adithya-Sakaray/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Sakaray)]
 
 
 
