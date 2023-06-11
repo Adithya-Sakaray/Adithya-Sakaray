@@ -17,10 +17,10 @@ I'm an enthusiastic app developer with a passion for crafting engaging and user-
 
 <h3>My Github Stats:</h3>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=adithya-sakaray&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adithya-sakaray&theme=dark&hide_border=false&theme=github_dark)<br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Sakaray&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Sakaray&layout=compact&theme=github_dark)
 
 
 
