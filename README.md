@@ -22,7 +22,7 @@ I'm an enthusiastic app developer with a passion for crafting engaging and user-
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Sakaray&layout=compact&theme=github_dark&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Sakaray&theme=github_dark&layout=donut)
 
 
 
