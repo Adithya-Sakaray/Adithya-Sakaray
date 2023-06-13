@@ -18,10 +18,9 @@ I'm an enthusiastic app developer with a passion for crafting engaging and user-
 <h3>My Github Stats:</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adithya-Sakaray&theme=github-dark&border_radius=4.5)](https://git.io/streak-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adithya-Sakaray&show_icons=true&theme=github_dark)
-
 <br/>
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adithya-Sakaray&show_icons=true&theme=github_dark)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Sakaray&theme=github_dark&layout=donut)
 
 
