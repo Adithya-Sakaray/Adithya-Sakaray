@@ -15,7 +15,7 @@ I'm an enthusiastic app developer with a passion for crafting engaging and user-
 
 <h3>Languages and Tools</h3>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,flutter,swift,c,cpp,css,dart,firebase,supabase,git,html,java,linux,matlab,mysql,py,r,raspberrypi,docker)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,flutter,swift,c,cpp,css,dart,py,r,firebase,supabase,git,html,java,linux,matlab,mysql,raspberrypi,arduino,docker)](https://skillicons.dev)
 
 <h3>My Github Stats:</h3>
 
