@@ -9,7 +9,7 @@ I'm an enthusiastic app developer with a passion for crafting engaging and user-
 
 * 🧳  Check out my portfolio [here](https://adithya-profile.vercel.app/)
 * 🌍  I'm based in Chennai
-* ✉️  You can contact me at [adithyasakaray@gmail.com](mailto:adithyasakaray@gmail.com)
+* ✉️  You can contact me at [adithyasakarayx@gmail.com](mailto:adithyasakarayx@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 
