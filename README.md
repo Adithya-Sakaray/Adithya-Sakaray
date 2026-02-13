@@ -1,51 +1,70 @@
-Hello !!👋 I am Adithya Sakaray
-====================================
+Hi 👋 I am Adithya Sakaray
+============================
 
-App Developer and Tech Enthusiast
--------------------------------------
-
-I'm an enthusiastic app developer with a passion for crafting engaging and user-friendly mobile applications. My expertise lies in iOS development and Flutter framework, allowing me to build seamless experiences for both Apple devices and cross-platform solutions.
+### Founder | Builder
 
 
-* 🧳  Check out my portfolio [here](https://adithya-sak.vercel.app/)
-* 🌍  I'm based in Chennai
-* ✉️  You can contact me at [adithyasakarayx@gmail.com](mailto:adithyasakarayx@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects
+I’m the building [Vakyam AI](https://vakyam.ai), a voice AI platform enabling human-like, multilingual conversations tailored for Indian languages. Previously, I built [Recruitr AI](https://recruitrai.com), an AI interview and assessment platform that secured international funding and onboarded paying customers across global markets. I chose to start up straight out of college to build production-grade AI systems rather than academic demos. During my R&D internship at **FLSmidth**, my work on automated industrial analysis contributed to an **international patent filing**. I hold a B.Tech in Computer Science (Cyber-Physical Systems) from **VIT Chennai**, where I also worked on applied AI and robotics research. Participated and won multiple hackathons. 
+
+ I like building cool shit. I like learning new shit. Just getting stuff done. 
 
 
-<h3>Languages and Tools</h3>
+## What I’m Working On
+
+- [**Vakyam AI**](https://vakyam.ai)
+  
+  - Multilingual conversational AI agents for Indian healthcare  
+  - Outbound and inbound voice automation  
+  - Language-aware TTS routing, real-time calling, and workflow integration  
+  - Focus on reliability, latency, and real production constraints
+
+
+## Experience
+
+**Co-Founder | [**Recruitr AI**](https://www.recruitrai.com/) (2024 ‐ 2025)**  
+- Built AI-based interview automation and candidate screening systems  
+- Raised international funding and shipped to global customers  
+- Learned the hard realities of sales, pricing, infra, and reliability at scale  
+
+**R&D Intern | [**FLSmidth**](https://www.flsmidth.com/) (Aug‐Nov 2023)**  
+- Automated wear-and-tear analysis, reducing processing time by ~90%  
+- Built 3D scanning and segmentation workflows  
+- Developed internal tools across iOS, Flutter, and cloud backends  
+- Contributed to work that resulted in an **international patent**
+
+
+## Cool things I have built
+- [**Drone-Based Emergency Detection System**](https://github.com/Adithya-Sakaray/Drone-Cam-Analysis): An emergency response system using mini-drones and computer vision.
+- [**RoboGPT**](https://github.com/Adithya-Sakaray/robogpt):A voice-activated robotic arm with YOLO-based vision.
+- [**FitNut**](https://github.com/Adithya-Sakaray/FitNut): A Flutter fitness app with real-time pose detection.
+- [**Agri-Connect**](https://github.com/Adithya-Sakaray/agri-connect): A mobile app for precision farming using IoT sensors.
+- [**Rakshak**](https://github.com/Adithya-Sakaray/Rakshak): A women's safety app with advanced emergency features.
+
+
+
+
+## Skills & Tools
 
 [![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,flutter,swift,c,cpp,css,bootstrap,dart,py,flask,r,firebase,supabase,mongodb,sqlite,git,html,java,linux,matlab,mysql,raspberrypi,arduino,docker,figma,gcp,github,pytorch)](https://skillicons.dev)
 
-<h3>My Github Stats:</h3>
+
+## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adithya-Sakaray&theme=github-dark&border_radius=4.5)](https://git.io/streak-stats)
-<br/>
-<!--
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adithya-Sakaray&show_icons=true&theme=github_dark)
--->
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Sakaray&theme=github_dark&layout=donut&hide=jupyter+notebook,CSS,CMake,SCSS)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adithyasakaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithyasakaray" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adithya-sakaray-077291251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adithya-sakaray-077291251/" height="30" width="40" /></a>
-</p>
-
-<!--
-**Adithya-Sakaray/Adithya-Sakaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+## Links
+
+- 🌐 Portfolio: https://adithya-sak.vercel.app  
+- 🧠 Company: https://www.vakyam.ai  
+- 📍 Location: Chennai, India  
+- ✉️ Email: adithyasakarayx@gmail.com  
+- 🐦 Twitter: https://twitter.com/adithyatec  
+- 💼 LinkedIn: https://www.linkedin.com/in/adithya-sakaray/
+
+
+*I care about building systems that actually work in the real world, not just demos.*
