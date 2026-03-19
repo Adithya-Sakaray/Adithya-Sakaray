@@ -40,7 +40,7 @@ I’m the building [Vakyam AI](https://vakyam.ai), a voice AI platform enabling 
 - [**Agri-Connect**](https://github.com/Adithya-Sakaray/agri-connect): A mobile app for precision farming using IoT sensors.
 - [**Rakshak**](https://github.com/Adithya-Sakaray/Rakshak): A women's safety app with advanced emergency features.
 - [**Adi-Calorie**](https://github.com/Adithya-Sakaray/adi-calorie) An AI based nutrition tracker.
-- [**SaavnSync**](https://github.com/Adithya-Sakaray/SaavnSync) You need to transfer your players from other music platforms to JioSaavn. 
+- [**SaavnSync**](https://github.com/Adithya-Sakaray/SaavnSync) A tool to transfer playlists from other music platforms to JioSaavn. 
 
 
 
