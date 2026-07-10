@@ -13,18 +13,11 @@ I’m the building [Vakyam AI](https://vakyam.ai), a voice AI platform enabling 
 
 - [**Vakyam AI**](https://vakyam.ai)
   
-  - Multilingual conversational AI agents for Indian healthcare  
-  - Outbound and inbound voice automation  
-  - Language-aware TTS routing, real-time calling, and workflow integration  
-  - Focus on reliability, latency, and real production constraints
+  - Multilingual conversational Speech Models for Indian Languages
+  - At just ₹0.75 per 1k characters. 
 
 
 ## Experience
-
-**Co-Founder | [**Recruitr AI**](https://www.recruitrai.com/) (2024 ‐ 2025)**  
-- Built AI-based interview automation and candidate screening systems  
-- Raised international funding and shipped to global customers  
-- Learned the hard realities of sales, pricing, infra, and reliability at scale  
 
 **R&D Intern | [**FLSmidth**](https://www.flsmidth.com/) (Aug‐Nov 2023)**  
 - Automated wear-and-tear analysis, reducing processing time by ~90%  
