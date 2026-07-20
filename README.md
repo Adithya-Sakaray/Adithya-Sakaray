@@ -4,7 +4,7 @@ Hi 👋 I am Adithya Sakaray
 ### Founder | Builder
 
 
-I’m the building [Vakyam AI](https://vakyam.ai), a voice AI platform enabling human-like, multilingual conversations tailored for Indian languages. Previously, I built [Recruitr AI](https://recruitrai.com), an AI interview and assessment platform that secured international funding and onboarded paying customers across global markets. I chose to start up straight out of college to build production-grade AI systems rather than academic demos. During my R&D internship at **FLSmidth**, my work on automated industrial analysis contributed to an **international patent filing**. I hold a B.Tech in Computer Science (Cyber-Physical Systems) from **VIT Chennai**, where I also worked on applied AI and robotics research. Participated and won multiple hackathons. 
+I’m the building [Vakyam AI](https://vakyam.ai),  Where we are building foundational speech models for Indian languages. Previously, I built [Recruitr AI](https://recruitrai.com), an AI interview and assessment platform that secured international funding and onboarded paying customers across global markets. I chose to start up straight out of college to build production-grade AI systems rather than academic demos. During my R&D internship at **FLSmidth**, my work on automated industrial analysis contributed to an **international patent filing**. I hold a B.Tech in Computer Science (Cyber-Physical Systems) from **VIT Chennai**, where I also worked on applied AI and robotics research. Participated and won multiple hackathons. 
 
  I like building cool shit. I like learning new shit. Just getting stuff done. 
 
@@ -54,7 +54,7 @@ I’m the building [Vakyam AI](https://vakyam.ai), a voice AI platform enabling 
 
 ## Links
 
-- 🌐 Portfolio: https://adithya-sak.vercel.app  
+- 🌐 Portfolio: https://adithyasak.com  
 - 🧠 Company: https://www.vakyam.ai  
 - 📍 Location: Chennai, India  
 - ✉️ Email: adithyasakarayx@gmail.com  
